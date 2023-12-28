@@ -3,10 +3,16 @@
 - 家計簿アプリ
 
 #### 使用技術
-- 開発環境
+- IDE
+  - IntelijもしくはEclipse
+- テンプレートエンジン
+  - Thymleaf
+- ビルドツール
+  - GradleかMaven
 
 - 使用言語
 
 - フレームワーク
 
 - DB
+  - PostgreSQL
