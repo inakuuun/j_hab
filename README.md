@@ -8,7 +8,7 @@
 - テンプレートエンジン
   - Thymleaf
 - ビルドツール
-  - GradleかMaven
+  - GradleもしくはMaven
 
 - 使用言語
 
