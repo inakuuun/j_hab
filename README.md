@@ -15,6 +15,8 @@
   -  Spring Boot
 - テンプレートエンジン
   - Thymleaf
+- ORマッパー
+  - 検討中(後回し)
 - 使用言語
   - Java
   - HTML/CSS
