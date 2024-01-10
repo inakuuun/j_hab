@@ -8,6 +8,7 @@
   - IntelliJ
 - バージョン管理
   - Git
+  - GitHub
 - インフラ
   - Docker
 - ビルドツール
